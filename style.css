@@ -10,7 +10,7 @@ html, body{
     width: 100vw;
 }
 body{
-    background-image: url('/imagens/fundo-madeira.jpg');
+    background-image: url('imagens/fundo-madeira.jpg');
     background-position: center;
     background-size: cover;
 
@@ -28,7 +28,7 @@ main{
     transform: translate(-50%, -50%);
     width: 311px;
     height: 627px;
-    background:url('/imagens/frame-iphone.png');
+    background:url('imagens/frame-iphone.png');
 }
 
 .telefone iframe{
