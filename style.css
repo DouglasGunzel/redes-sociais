@@ -59,3 +59,7 @@ main{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.575);
     transition: 0.4s;
 }
+
+#linkedin{
+    background-color: red;
+}
